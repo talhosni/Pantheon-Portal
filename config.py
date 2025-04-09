@@ -1,1 +1,1 @@
-theme = 'thunderbolt'
+theme = 'divine_hybrid'
