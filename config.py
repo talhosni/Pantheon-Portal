@@ -1,1 +1,1 @@
-theme = 'default'
+theme = 'ocean'
