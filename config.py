@@ -1,1 +1,1 @@
-theme = 'default'
+theme = 'divine_hybrid'
